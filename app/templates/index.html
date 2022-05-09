@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>중고차가 고민이라면?!</title>
+  <style>
+    @import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+    h1{font-family: 'Nanum Pen Script', cursive;}
+    </style>
+</head>
+
+<body>
+<div>
+	<center><h1>내 자동차의 시세는 얼마?! •̀_•́</h1>
+    <img src="./static/auto1.jpg" style="width:50%">
+    <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}", method="POST">
+    <input type="text" name="Model" placeholder="Model" required="required" />
+    <input type="number" name="Mileage" placeholder="Mileage" required="required" />
+    <input type="number" name="Year" placeholder="Year" required="required" />
+    <button type="submit" class="btn btn-outline-secondary">Predict</button>
+    </form>
+  </center>
+
+ 
+</body>
+</html>
