@@ -15,10 +15,10 @@ import psycopg2
 
 # connect DB, create df
 conn = psycopg2.connect(
-    host="john.db.elephantsql.com",
-    database="yfzpviqz",
-    user="yfzpviqz",
-    password="BqgIwYZcjFI7VeLVAuMbTdXOlvzpkICk")
+    host="**.com",
+    database="**",
+    user="**",
+    password="**")
 
 cur = conn.cursor()
 cur.execute('SELECT * FROM used_cars;')
