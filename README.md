@@ -4,7 +4,7 @@
 * 데이터 분석 및 발표 : 안나 (Email: naan74532@gmail.com)
 * 대시보드 [Metabase](https://usedcardashboards.herokuapp.com/public/dashboard/34de8990-8db3-4116-9301-5503336a8b71)
 * 앱서비스 [중고차 가격예측](https://pjtappusedcar.herokuapp.com/)
-* 전체 발표자료 [PDF](https://github.com/yukiya06/UsedCar_Values/blob/main/%EC%A4%91%EA%B3%A0%EC%B0%A8%20%ED%8C%90%EB%A7%A4%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20API.pdf)
+* 전체 발표자료 [PDF](https://github.com/yukiya06/UsedCar_Values/blob/main/DA_%EC%95%88%EB%82%98_%EC%A4%91%EA%B3%A0%EC%B0%A8%ED%8C%90%EB%A7%A4%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.pdf)
 
 ---
 ## 프로젝트 전체 목차
